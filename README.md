@@ -39,3 +39,5 @@
   + git show xxx  (显示tag信息)
   + git tag -a xxx SHA1部分 (追加历史tag)
   + git push remote_name tag_name (把标签推到远程仓库)
+
+Shihuan1014提交
